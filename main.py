@@ -1,4 +1,4 @@
-from PIL import ImageDraw, ImageFon
+from PIL import ImageDraw, ImageFont
 import PIL.Image  # Used to avoid name conflict
 from tkinter import *
 from tkinter import filedialog
